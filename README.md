@@ -5,7 +5,7 @@ Here we provide the instructions for developing two ReactJS applications, design
 * **Assignment 1 - Beginner**: For applicants who have just learned React and have minimal to no experience in developing application using React.
 * **Assignment 2 - Advanced**: For applicants who have a good working knowledge of React and have worked on / developed at least one React application
 
-All applicants are required to submit only one assignment based on their knowledge, experience and confidence in ReactJS. We advice applicants to see the demo and instructions for both the assignments before deciding which one to submit.
+All applicants are required to submit only one assignment based on their knowledge, experience and confidence in ReactJS. We advise applicants to see the demo and instructions for both the assignments before deciding which one to submit.
 
 ## Prerequisites
 * Knowledge of ReactJS (obviously), HTML, CSS, Bootstrap (optional, but will be really helpful for Assignment 1)
